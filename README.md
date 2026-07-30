@@ -1,3 +1,4 @@
+
 SynaptiQ AI Website
 
 This repository contains the static website for SynaptiQ AI.
