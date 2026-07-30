@@ -18,3 +18,6 @@ Usage:
 Notes:
 - The homepage design, colors, fonts, and animations are preserved exactly as provided.
 - Placeholder pages contain minimal text and shared site navigation.
+
+
+
